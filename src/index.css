@@ -3,3 +3,11 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+button.buttonStyling {
+  margin: 30px;
+}
+
+form.formStyling {
+  margin: 30px;
+}
